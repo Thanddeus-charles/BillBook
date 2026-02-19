@@ -1,2 +1,2 @@
 rootProject.name = "BillBook"
-include ':app'
+include(":app")
